@@ -36,8 +36,8 @@ export class AppComponent {
 
 
 $.get("https://localhost:7295/api/products",data=>{
-  console.log(data)
-})
+   console.log(data)
+ })
 
 //JQUERY
 // $(document).ready(()=>{
